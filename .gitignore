@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/laboratory_works_mpl.iml
+/.idea/
